@@ -1,5 +1,16 @@
-Phaser 3 skeleton project, based on snowbillr's [tutorial](https://snowbillr.github.io/blog/2018-04-09-a-modern-web-development-setup-for-phaser-3/).
+Phaser 3 skeleton project, based on snowbillr's [tutorial](https://snowbillr.github.io/blog/2018-04-09-a-modern-web-development-setup-for-phaser-3/). Clone this repo and use it as a skeleton for your next Phaser 3 project. Features:
+
+- Webpack dev server
+- Babel
+- Phaser as a separate dependency (chunk)
+
+
+### Developing
+
+`yarn run webpack-dev-server` to run the local development server.
+
+
+### Build
 
 `yarn run webpack` to build.
 
-`yarn run webpack-dev-server` to run the local development server.
