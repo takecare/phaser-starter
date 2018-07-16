@@ -3,7 +3,8 @@ Phaser 3 skeleton project, based on snowbillr's [tutorial](https://snowbillr.git
 Features:
 
 - Webpack dev server
-- Babel
+- Transpilation with Babel
+- Default scene setup
 - Phaser as a separate dependency (chunk)
 
 To do:
